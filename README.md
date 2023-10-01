@@ -1,7 +1,3 @@
-# Purpose of This Repo
-
-This repo is meant to be used to keep things organized during content development and act as the source of truth for all projects and exercises related to this course.
-
 ## Folder Structure
 
 ### Lesson Folder
